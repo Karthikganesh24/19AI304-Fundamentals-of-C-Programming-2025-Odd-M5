@@ -214,7 +214,6 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-5- Module 5 - FoC
 # Ex.No:24
    Implement a C program that dynamically allocates memory using calloc(), accepts integer inputs from the user, computes their sum, and prints the sum.
-# Date : 19-11-2024
 # Aim:
   To implement a C program that dynamically allocates memory for an array of integers using calloc(), accepts elements from the user, computes their sum, and displays the sum.
 # Algorithm:
@@ -275,10 +274,10 @@ int main(){
     free(ptr);
     return 0;
 }
-
 ```
+
 # Output:
-<img width="567" height="406" alt="image" src="https://github.com/user-attachments/assets/cb31a373-5021-49bb-874b-87780c233b9e" />
+<img width="686" height="486" alt="image" src="https://github.com/user-attachments/assets/6293c04b-245e-4c4c-9f07-73d6299a2707" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
